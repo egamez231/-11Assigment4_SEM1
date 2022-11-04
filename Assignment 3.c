@@ -3,8 +3,8 @@
 
 typedef struct cars
 {
-    char car_make[100];
-    char model[100];
+    char car_make[50];
+    char model[50];
     int year;
     int cc;
     float market_price;
